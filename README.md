@@ -8,28 +8,28 @@ Delani studio is a website that helps to practice and understand Bootstrap and J
 
 #Installation Instructions-
   
-clone the project-
+##clone the project-
 
-cd into the project folder-
+##cd into the project folder-
 
-Go to live server-
+##Go to live server-
 
 #Live Link-
 
 
 #Languages Used-
 
-HTML-
+##HTML-
 
-CSS-
+##CSS-
 
-JAVASCRIPT-
+##JAVASCRIPT-
 
-BOOTSTRAP-
+##BOOTSTRAP-
 
 #Technologies Used
 
-Visual Studio Code
+##Visual Studio Code
 
 #License
 
