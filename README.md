@@ -4,9 +4,9 @@ bundiroberts
 
 #Description -
 
-Delani studio is a website that helps to practice and understand Bootstrap anf JQuery.
+Delani studio is a website that helps to practice and understand Bootstrap and JQuery.
 
-Installation Instructions-
+#Installation Instructions-
   
 clone the project-
 
