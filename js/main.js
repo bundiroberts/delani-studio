@@ -19,3 +19,69 @@ $(document).ready(function() {
     });
   });
   
+
+   //hover//
+      
+
+$(document).ready(function(){
+    $('#work1.portfolio').hover(function(){
+      $(this).css('opacity', '0.2');
+    // },
+  });
+  });
+      $(document).ready(function(){
+      $('#work2.portfolio').hover(function(){
+        $(this).css('opacity', '0.2');
+      // },
+      // function(){
+      //   $(this).css('opacity', '1');
+      });
+      });
+        $(document).ready(function(){
+          $('#work3.portfolio').hover(function(){
+             $(this).css('opacity', '0.2');
+        // },
+        // function(){
+        //   $(this).css('opacity', '1');
+        });
+        });
+         $(document).ready(function(){
+            $('#work4.portfolio').hover(function(){
+              $(this).css('opacity', '0.2');
+          // },
+          // function(){
+          //   $(this).css('opacity', '1');
+          });
+          });
+            $(document).ready(function(){
+              $('#work5.portfolio').hover(function(){
+                $(this).css('opacity', '0.2');
+            // },
+            // function(){
+            //   $(this).css('opacity', '1');
+            });
+            });
+            $(document).ready(function(){
+              $('#work6.portfolio').hover(function(){
+                $(this).css('opacity', '0.2');
+              // },
+              // function(){
+              //   $(this).css('opacity', '1');
+              });
+              });
+              $(document).ready(function(){
+                $('#work7.portfolio').hover(function(){
+                  $(this).css('opacity', '0.2');
+                // },
+                // function(){
+                //   $(this).css('opacity', '1');
+                });
+                });
+               $(document).ready(function(){
+                  $('#work8.portfolio').hover(function(){
+                    $(this).css('opacity', '0.2');
+                  // },
+                  // function(){
+                  //   $(this).css('opacity', '1');
+                  });
+                  });
