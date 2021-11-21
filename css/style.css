@@ -1,19 +1,1 @@
-    .landing {
-    background-image: url("images/h_img.jpg");
-    background-repeat:no-repeat ;
-    background-position: center;
-    background-size: cover;
-    padding-top: 5px;
     
-}
-    .h1 {
-     padding: 4px;
-     margin: 5px;
- }
-    .logo {
-      height: 60px;
-      width: 60px;
-      margin-top: 15px;
-      margin-bottom:20px;
- }
-
