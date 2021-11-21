@@ -1,1 +1,16 @@
+* {
+    box-sizing: border-box;
+  
+  }
+ body{
+    text-align: center;
+ }
+ #monday {
+    background-image: url(' ../images/h_img.jpg');
+    background-size: cover;
+    padding-top: 16%;
+    color: #fff;
+    height: 97vh;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     
+ } 
