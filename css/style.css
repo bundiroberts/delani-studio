@@ -143,4 +143,36 @@
     padding: 70px 5px;
     max-width: 20%;
     margin:9px;
-    
+     
+}
+ 
+#work1:hover {
+    opacity: 0.5;
+   }
+   
+   #work2:hover {
+    opacity:0.5;
+  }
+  #work3:hover {
+    opacity:0.5;
+  }
+  #work4:hover {
+    opacity:0.5;
+  }
+  #work5:hover {
+    opacity:0.5;
+  }
+  #work6:hover {
+    opacity:0.5;
+  }
+  #work7:hover {
+    opacity:0.5;
+  }
+  #work8:hover {
+    opacity:0.5;
+  }
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+}
