@@ -28,6 +28,8 @@ JAVASCRIPT-
 
 BOOTSTRAP-
 
+JQUERY-
+
 #Technologies Used
 
 Visual Studio Code
